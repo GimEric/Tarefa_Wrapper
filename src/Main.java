@@ -9,7 +9,7 @@ public class Main {
         System.out.println(numO);
 
 
-        double media = Double.valueOf(58.5555556);
+        double media = Double.valueOf(numP);
 
     }
 }
